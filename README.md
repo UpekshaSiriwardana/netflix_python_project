@@ -1,1 +1,1 @@
-# netflix_python_project
+# Netflix Movies and TV Shows Data Analysis Project using Python
